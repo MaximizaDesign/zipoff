@@ -182,9 +182,6 @@
 .lg-toolbar .lg-close:after {
   content: "\e070";
 }
-.lg-toolbar .lg-download:after {
-  content: "\e0f2";
-}
 
 .lg-sub-html {
   background-color: rgba(0, 0, 0, 0.45);
